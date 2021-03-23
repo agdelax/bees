@@ -1,5 +1,5 @@
 {
-  "name": "bees.js",
+  "name": "beesjs",
   "version": "1.0.0",
   "description": "Unleash a swarm of bees on your website's users.",
   "keywords": [
@@ -11,7 +11,7 @@
     "url": "https://github.com/agdelax/bees/issues",
     "email": "alberto@tokeninteractive.com"
   },
-  "main": "bees.js",
+  "main": "beesjs",
   "repository": {
     "type": "git",
     "url": "https://github.com/agdelax/bees.git"
