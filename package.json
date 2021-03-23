@@ -1,20 +1,20 @@
 {
-  "name": "swarm.js",
+  "name": "killerbees",
   "version": "1.0.0",
   "description": "Unleash a swarm of bees on your website's users.",
   "keywords": [
     "bees",
     "swarm"
   ],
-  "homepage": "https://github.com/agdelax/swarm.js",
+  "homepage": "https://github.com/agdelax/killerbees.js",
   "bugs": {
-    "url": "https://github.com/agdelax/swarm.js/issues",
+    "url": "https://github.com/agdelax/killerbees.js/issues",
     "email": "alberto@tokeninteractive.com"
   },
-  "main": "swarm.js",
+  "main": "killerbees",
   "repository": {
     "type": "git",
-    "url": "https://github.com/agdelax/swarm.js.git"
+    "url": "https://github.com/agdelax/killerbees.js.git"
   },
   "author": "Alberto de la Cruz alberto@tokeninteractive.com (albertodelacruz.io)",
   "license": "MIT",
