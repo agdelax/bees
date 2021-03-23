@@ -9,7 +9,7 @@ ref.parentNode.insertBefore(style, ref);
 function beeGenerator(){
     var bee = document.createElement('div');
     bee.style.backgroundColor = "black";
-    bee.style.position = "absolute";
+    bee.style.position = "fixed";
     bee.style.height = "7px";
     bee.style.width = "7px";
     bee.style.borderRadius = "100%";
