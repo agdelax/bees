@@ -1,20 +1,20 @@
 {
-  "name": "beesjs",
+  "name": "swarm.js",
   "version": "1.0.0",
   "description": "Unleash a swarm of bees on your website's users.",
   "keywords": [
     "bees",
     "swarm"
   ],
-  "homepage": "https://github.com/agdelax/bees",
+  "homepage": "https://github.com/agdelax/swarm.js",
   "bugs": {
-    "url": "https://github.com/agdelax/bees/issues",
+    "url": "https://github.com/agdelax/swarm.js/issues",
     "email": "alberto@tokeninteractive.com"
   },
-  "main": "beesjs",
+  "main": "swarm.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/agdelax/bees.git"
+    "url": "https://github.com/agdelax/swarm.js.git"
   },
   "author": "Alberto de la Cruz alberto@tokeninteractive.com (albertodelacruz.io)",
   "license": "MIT",
