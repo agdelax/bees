@@ -1,4 +1,4 @@
-# KillerBees.js
+# killerbees.js
 
 Unleash a swarm of bees on your website's users.
 
